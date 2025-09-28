@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.sspsrosera.com/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.sspsrosera.com/about</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.sspsrosera.com/admissions</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.sspsrosera.com/contact</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.sspsrosera.com/gallery</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.sspsrosera.com/blog</loc>
+    <priority>0.70</priority>
+  </url>
+</urlset>
