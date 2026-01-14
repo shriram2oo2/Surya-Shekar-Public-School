@@ -93,7 +93,7 @@ function App() {
 
       {/* whatapp support log */}
       <a
-        href="https://wa.me/919876543210" // ← Replace with your WhatsApp number
+        href="https://wa.me/8809889083" // ← Replace with your WhatsApp number
         className="fixed left-4 bottom-4 z-50"
         target="_blank"
         rel="noopener noreferrer"

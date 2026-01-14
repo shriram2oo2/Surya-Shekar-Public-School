@@ -126,7 +126,7 @@ const Footer = () => {
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
-                  <FaPhone className="text-orange-400 flex-shrink-0" />
+                  <FaPhone className="text-orange-400 flex-shrink-0 text-lg rotate-90" />
                   <div className="text-sm md:text-base text-gray-300">
                     <div className="font-medium">Phone:</div>
                     <a
